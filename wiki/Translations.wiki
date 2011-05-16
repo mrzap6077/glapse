@@ -1,0 +1,11 @@
+#labels Phase-Support,Featured
+# Brief tutorial to learn how to translate gLapse and contribute
+
+= Introduction =
+
+Have you enjoyed gLapse? Do you really like it so much you want to contribute? That's fantastic because you could translate the application into another language without programming skills. It's pretty easy!
+
+
+= Getting started =
+
+gLapse uses gettext to provide multilanguage support because it's nearly a standard system. 
