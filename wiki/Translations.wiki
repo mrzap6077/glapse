@@ -1,5 +1,5 @@
 #labels Phase-Support,Featured
-# Brief tutorial to learn how to translate gLapse and contribute
+#brief tutorial to learn how to translate gLapse and contribute
 
 = Introduction =
 
