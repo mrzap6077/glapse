@@ -3,12 +3,12 @@
 
 = Introduction =
 
-Add your content here.
+Have you enjoyed gLapse? Then, it would be fantastic if you could contribute translating it into another language. The process doesn't require programming skills and it's pretty easy, you only have to follow these simple instructions.
 
 
-= Details =
+= Getting started =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+gLapse uses gettext as a library to provide its multilanguage feature since it's considered nearly a standard. A [http://en.wikipedia.org/wiki/GNU_gettext gettext] translation is made of two files:
+
+  * .po file: plain text file with string pairs (english text and second language text). It's intended for human reading and editing only.
+  * .mo file: binary version of a .po file.
