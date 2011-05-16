@@ -1,4 +1,4 @@
-#learn how to translate gLapse and contribute!
+learn how to translate gLapse and contribute
 
 = Introduction =
 
