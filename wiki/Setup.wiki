@@ -3,25 +3,25 @@
 
 = Introduction =
 
-This is a brief tutorial on how to install gLapse in your GNU/Linux system. I'ts so short because setting gLapse up it's terribly easy, so... Have fun!
+This is a brief tutorial on how to install *gLapse* in your GNU/Linux system. It's so short because setting gLapse up it's terribly easy, so... Have fun!
 
 
 = Debian based distributions =
 
-If you have a Debian based distribution it's your lucky day because there's a neat gLapse .deb package waiting for you. Follow the next steps:
+If you have a Debian based distribution like Ubuntu it's your lucky day because there's a neat *gLapse* _.deb_ package waiting for you. Follow the next steps:
 
-  # Download the .deb package from the [http://code.google.com/p/glapse/downloads/list Downloads] section.
-  # Install de .deb package double clicking it
-  # Run gLapse from the Applications menu or by typing "glapse" in your terminal.
+  # Download the _.deb_ package from the [http://code.google.com/p/glapse/downloads/list Downloads] section.
+  # Install de _.deb_ package double clicking it
+  # Run *gLapse* from the Applications menu or by typing "glapse" in your terminal.
 
 
 = Other GNU/Linux distributions=
 
-Installing gLapse in a non Debian based distribution only require a couple additional steps, so don't panic.
+Installing *gLapse* in a non Debian based distribution only require a couple additional steps, so don't panic.
 
   # Download the source package from the [http://code.google.com/p/glapse/downloads/list Downloads] section.
   # Decompress it.
   # Install the dependencies (ffmpeg, python, pygtk and scrot) with your distribution's package manager.
-  # Access gLapse folder from a terminal.
+  # Access *gLapse* folder from a terminal.
   # Type {{{sudo make install}}}.
-  # Run gLapse from the Applications menu or by typing "glapse" in your terminal.
+  # Run *gLapse* from the Applications menu or by typing "glapse" in your terminal.
