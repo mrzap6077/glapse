@@ -1,0 +1,11 @@
+#summary Features and enhancements yet to be implemented
+#labels Phase-Requirements,Todolist
+
+=To do list=
+
+  * Configurable video quality (high, medium, low).
+  * Synchronized screenshots output and video input folders.
+  * Safe screenshot output folder (do not save screenshots into home folder!).
+  * Video progress bar.
+  * French translation.
+  * Webcam recorder using OpenCV or similar.
