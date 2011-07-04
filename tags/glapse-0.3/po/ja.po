@@ -1,0 +1,184 @@
+# Japanese translations for glapse package.
+# Copyright (C) 2011 David Saltares Márquez
+# This file is distributed under the same license as the glapse package.
+# Juan José Bernal Rodríguez <juanjose.bernal.rodriguez@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glapse 0.3\n"
+"Report-Msgid-Bugs-To: david.saltares@gmail.com\n"
+"POT-Creation-Date: 2011-06-24 18:42+0200\n"
+"PO-Revision-Date: 2011-06-05 13:40+0200\n"
+"Last-Translator: Juan José Bernal Rodríguez <juanjose.bernal.rodriguez@gmail."
+"com>\n"
+"Language-Team: Japanese <>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: data/glade/glapseGUI.glade.h:1
+msgid "(©) David Saltares Márquez 2011"
+msgstr "(©) David Saltares Márquez 2011"
+
+#: glapseGUI/glapseGUI.py:233 glapseGUI/glapseGUI.py:243
+#, python-format
+msgid "<b>%s does not exist</b>"
+msgstr "<b>%s対象先のフォルダがありません</b>"
+
+#: glapseGUI/glapseGUI.py:285
+#, python-format
+msgid "<b>%s was not found</b>"
+msgstr "<b>%sは見つかりませんでした</b>"
+
+#: glapseGUI/glapseGUI.py:175
+#, python-format
+msgid "<b>%s</b> does not exists, do you want to create it?"
+msgstr ""
+"<b>%s</b>対象先のフォルダがありません。\n"
+"作成してもよろしいですか？"
+
+#: data/glade/glapseGUI.glade.h:2
+msgid "<b>Screenshots</b>"
+msgstr "<b>連番スクリーンショット</b>"
+
+#: data/glade/glapseGUI.glade.h:3
+msgid "<b>Video</b>"
+msgstr "<b>動画</b>"
+
+#: data/glade/glapseGUI.glade.h:4
+msgid "About"
+msgstr "情報"
+
+#: data/glade/glapseGUI.glade.h:5
+msgid "Choose..."
+msgstr "参考···"
+
+#: glapseGUI/glapseGUI.py:253
+msgid "Creating video..."
+msgstr "動画を書き出しています···"
+
+#: glapseGUI/glapseGUI.py:284
+msgid "Dependencies error"
+msgstr "依存エラー"
+
+#: data/glade/glapseGUI.glade.h:6
+msgid "Error"
+msgstr "エラー"
+
+#: data/glade/glapseGUI.glade.h:7
+msgid "FPS"
+msgstr "フレームレート"
+
+#: glapseGUI/glapseGUI.py:232 glapseGUI/glapseGUI.py:242
+msgid "Folder not found"
+msgstr "フォルダは見つかりませんでした"
+
+#: data/glade/glapseGUI.glade.h:8 glapseGUI/glapseGUI.py:211
+#: glapseGUI/glapseGUI.py:260
+msgid "Idle"
+msgstr "アイドル"
+
+#: data/glade/glapseGUI.glade.h:9
+msgid "Input folder"
+msgstr "入力フォルダ"
+
+#: data/glade/glapseGUI.glade.h:10
+msgid "Interval (s)"
+msgstr "間隔（秒）"
+
+#: glapseGUI/glapseGUI.py:148
+msgid "MP4 files"
+msgstr "MP4ファイル"
+
+#: data/glade/glapseGUI.glade.h:11
+msgid "Make video"
+msgstr "動画を作る"
+
+#: data/glade/glapseGUI.glade.h:12
+msgid "Output file"
+msgstr "出力ファイル名"
+
+#: data/glade/glapseGUI.glade.h:13
+msgid "Output folder"
+msgstr "出力フォルダ"
+
+#: glapseGUI/glapseGUI.py:286
+msgid "Please, install the package and launch gLapse again"
+msgstr "パッケージをインストールしてから、glapseを改めて実行してください"
+
+#: glapseGUI/glapseGUI.py:234 glapseGUI/glapseGUI.py:244
+msgid "Please, select a valid input folder"
+msgstr "有効な入力フォルダを選択してください"
+
+#: data/glade/glapseGUI.glade.h:14
+msgid "Quality"
+msgstr "画質"
+
+#: data/glade/glapseGUI.glade.h:15
+msgid "Screenshots folder is not empty"
+msgstr "スクリーンショット·フォルダは空ではありません"
+
+#: glapseGUI/glapseGUI.py:110
+msgid "Screenshots output folder"
+msgstr "スクリーンショット出力フォルダの選択"
+
+#: data/glade/glapseGUI.glade.h:16
+msgid "Stop"
+msgstr "停止"
+
+#: data/glade/glapseGUI.glade.h:17
+msgid "Take screensots, glue them together"
+msgstr "連番スクリーンショットを撮ったり、貼り付けたりして"
+
+#: data/glade/glapseGUI.glade.h:18
+msgid "Take several screenshots and glue them together"
+msgstr "連番スクリーンショットを撮ったり、貼り付けたりして"
+
+#: data/glade/glapseGUI.glade.h:19
+msgid "Take shots"
+msgstr "開始"
+
+#: glapseGUI/glapseGUI.py:200
+msgid "Taking screenshots..."
+msgstr "連番スクリーンショットを撮っています···"
+
+#: glapseGUI/glapseGUI.py:186
+msgid ""
+"The folder already has files following the naming pattern, taking "
+"screenshots may overwrite them. Do you want to continue?"
+msgstr ""
+"このフォルダの中には、既にパターンを従ってファイル名があります。連番スクリー"
+"ンショットを撮る場合ならば、ファイルを上書くことが可能です。それでもよろしい"
+"ですか？"
+
+#: glapseGUI/glapseGUI.py:125
+msgid "Video input folder"
+msgstr "動画入力フォルダの選択"
+
+#: glapseGUI/glapseGUI.py:140
+msgid "Video output file"
+msgstr "動画出力ファイル名の選択"
+
+#: data/glade/glapseGUI.glade.h:20
+msgid "gLapse v0.3"
+msgstr "gLapse v0.3"
+
+#~ msgid "Best"
+#~ msgstr "最高"
+
+#~ msgid "Good"
+#~ msgstr "良い"
+
+#~ msgid "Normal"
+#~ msgstr "中"
+
+#~ msgid "Poor"
+#~ msgstr "悪い"
+
+#~ msgid "Quality (bps)"
+#~ msgstr "ビットレート/画質"
+
+#~ msgid "Very bad"
+#~ msgstr "最低"
