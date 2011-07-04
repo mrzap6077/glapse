@@ -4,5 +4,4 @@
 =To do list=
 
   * Video progress bar.
-  * French translation.
   * Webcam recorder using OpenCV or similar.
